@@ -10,7 +10,9 @@ LCD와 LED를 통해 스마트팜 내부 상태 및 식물 성장 상태를 표�
 
 ## Development Environment
 
-<img src="https://img.shields.io/badge/Verilog-5C4EE5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Basys3-2F3337?style=flat-square&logoColor=white"/>
+- Basys3 FPGA
+- Verilog HDL
+- Xilinx Vivado
 
 
 
