@@ -27,7 +27,7 @@ LCD와 LED를 통해 스마트팜 내부 상태 및 식물 성장 상태를 표�
 
 
 
-## Portfolio
+## Project Details
 [Notion - Smart Farm Project](https://app.notion.com/p/SMART-FARM-Basys3-3b117756329b806d9d83d7bba2da8481)
 
 
